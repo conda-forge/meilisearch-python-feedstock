@@ -31,7 +31,7 @@ tests:
       imports:
         - meilisearch
       pip_check: true
-      python_version: ${{ python_min }}
+      python_version: ${{ python_min }}.*
 
 about:
   summary: The python client for Meilisearch API.
