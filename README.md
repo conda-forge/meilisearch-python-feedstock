@@ -149,6 +149,3 @@ Feedstock Maintainers
 
 * [@moritzwilksch](https://github.com/moritzwilksch/)
 
-
-<!-- dummy commit to enable rerendering -->
-
