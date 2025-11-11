@@ -1,5 +1,5 @@
 context:
-  version: "0.37.1"
+  version: "0.38.0"
 
 package:
   name: meilisearch-python
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/m/meilisearch/meilisearch-${{ version }}.tar.gz
-    sha256: e1473a67878bf571994ab861f97062888cac0c24c066755be0c27a1d3322db65
+    sha256: 9093ebe69f6d239e78a58c46dc5e2ee9f16be041514fc833c143807406dae72d
 
 build:
   script: ${{ PYTHON }} -m pip install .
